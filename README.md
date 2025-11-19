@@ -40,4 +40,4 @@ python3 -m http.server 8000
 - Proyecto mantenido por `German2024279`.
 
 **Licencia**
-- No hay una licencia explícita en este repositorio. Pregunta si quieres que añada una (por ejemplo MIT) para uso y distribución.
+- No hay una licencia explícita en este repositorio.
