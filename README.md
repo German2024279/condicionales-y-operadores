@@ -6,7 +6,6 @@ Repositorio de ejemplos didácticos sobre estructuras de control en JavaScript. 
 - Pre y post-incremento/decremento
 - Gestión de errores (`try/catch`)
 - Métodos predefinidos del lenguaje
-- 
 ## Estructura del proyecto
 - `index.html`: Página principal que carga los demos y muestra resultados.
 - `css`: Estilos para la página de ejemplo.
